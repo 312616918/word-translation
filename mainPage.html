@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' ;script-src 'self'">
+    <meta http-equiv="X-Content-Security-Policy" content="default-src 'self'; script-src 'self'"> -->
+    <script>
+      window.nodeRequire = require;
+      delete window.require;
+      delete window.exports;
+      delete window.module;
+    </script>
+    <script src="./bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="./js/mainPage.js"></script>
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="./css/mainPage.css">
+    <title>word-translation</title>
+  </head>
+  <body>
+    <div class="continer">
+      <div class="row">
+        <div class="col-md-2 sidebar"id="menu-list">
+          <ul class="nav nav-sidebar">
+            <li class="menu-item active" id="history-dict">历史记录</li>
+            <li class="menu-item" id="history-dict">待施工...</li>
+          </ul>
+        </div>
+        <div class="col-md-10 main" id="page-list">
+          <div id="history-dict-page"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,65 @@
+{
+  "dict": [
+    {
+      "keyword": "on",
+      "pronounce": [
+        {
+          "phonetic": "英[ɒn]",
+          "voice": "http://dict.youdao.com/dictvoice?audio=on&type=1"
+        },
+        {
+          "phonetic": "美[ɑːn]",
+          "voice": "http://dict.youdao.com/dictvoice?audio=on&type=2"
+        }
+      ],
+      "tran": [
+        "prep. 在……之上；向，朝；关于；在……时候；由……支撑；（身上）带着；一……就；吃，喝；接近；根据；挣……钱；以……支付；以……为燃料；在……中；作为……成员；借助（仪器或器械）；与……相比；增加；靠……服用药物；（由电台或电视）播放；忙碌于",
+        "adv. 在上面；向前地；继续着，行动中；穿着；（娱乐演出等）上演；（电器）开着地；当班",
+        "adj. 开着的；发生着的，正在进行中；之后；覆盖；附着（尤指在正确的位置上）；写着的；正在播出的",
+        "n. (On) （中、菲）温（人名）"
+      ],
+      "sum": 2,
+      "count": 0
+    },
+    {
+      "keyword": "row",
+      "pronounce": [
+        {
+          "phonetic": "英[rəʊ]",
+          "voice": "http://dict.youdao.com/dictvoice?audio=row&type=1"
+        },
+        {
+          "phonetic": "美[roʊ;raʊ]",
+          "voice": "http://dict.youdao.com/dictvoice?audio=row&type=2"
+        }
+      ],
+      "tran": [
+        "n. 行，排；划船；街道；吵闹",
+        "vt. 划船；使……成排",
+        "vi. 划船；争吵",
+        "n. (Row)人名；(英)罗"
+      ],
+      "sum": 2,
+      "count": 2
+    },
+    {
+      "keyword": "text",
+      "pronounce": [
+        {
+          "phonetic": "英[tekst]",
+          "voice": "http://dict.youdao.com/dictvoice?audio=text&type=1"
+        },
+        {
+          "phonetic": "美[tekst]",
+          "voice": "http://dict.youdao.com/dictvoice?audio=text&type=2"
+        }
+      ],
+      "tran": [
+        "n. [计] 文本；课文；主题",
+        "vt. 发短信"
+      ],
+      "sum": 1,
+      "count": 0
+    }
+  ]
+}

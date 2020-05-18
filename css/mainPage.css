@@ -1,0 +1,12 @@
+.check-img{
+    width: 20px;
+    height: 20px;
+}
+.menu-item{
+    padding: 20px;
+    width: auto;
+    border-bottom: palevioletred solid 1px;
+}
+#menu-list{
+    border-right: palevioletred solid 1px;
+}
